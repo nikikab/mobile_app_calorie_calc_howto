@@ -19,6 +19,18 @@ Log a meal in the diary with name, grams, calories and macros.
    ![Add food manually – 3](../../media/03-diary-add-manually/en-03-diary-result.png)
 
 
+## Build a meal from ingredients
+
+To work out a whole dish (for example a breakfast of oats, seeds and fruit), tap **Add manually** and then **Build from ingredients**.
+
+1. Type a name for the meal and pick the meal time.
+2. Tap **Add ingredient**. Search it in Open Food Facts or type the name and nutrition yourself.
+3. Enter the **Amount**: `50`, `1/2` or `1 1/2`, and pick the unit: g, ml, tbsp, tsp, cup or pc. The grams and nutrition are filled in for you. For pieces, set the **Grams per piece** (for example 180 for a pear).
+4. Repeat for every ingredient. The total grams, calories and macros at the top update after each change.
+5. To lower the calories, change the grams of an ingredient or remove it with the bin. When you are happy, tap **Add**. Tap **Cancel** instead if you only wanted to calculate.
+
+Tick **Save to favorites** to keep the whole meal with its ingredients.
+
 ## Video
 
 [▶ Watch the video](../../media/03-diary-add-manually/bg-demo.mp4)

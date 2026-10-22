@@ -19,6 +19,18 @@ Enregistrez un repas dans le journal avec son nom, les grammes, les calories et 
    ![Ajouter un aliment manuellement – 3](../../media/03-diary-add-manually/en-03-diary-result.png)
 
 
+## Composer un repas par ingrédients
+
+Pour calculer un plat entier (par exemple un petit-déjeuner de flocons d'avoine, de graines et de fruits), touchez **Ajouter manuellement** puis **Composer par ingrédients**.
+
+1. Saisissez un nom pour le repas et choisissez le repas.
+2. Touchez **Ajouter un ingrédient**. Cherchez-le dans Open Food Facts ou saisissez vous-même le nom et les valeurs nutritionnelles.
+3. Saisissez la **Quantité** : `50`, `1/2` ou `1 1/2`, et choisissez l'unité : g, ml, c. à s., c. à c., tasse ou pièce. Les grammes et les valeurs se remplissent tout seuls. Pour les pièces, réglez les **Grammes par pièce** (par exemple 180 pour une poire).
+4. Répétez pour chaque ingrédient. Le total en grammes, calories et macros en haut se met à jour après chaque changement.
+5. Pour baisser les calories, changez les grammes d'un ingrédient ou retirez-le avec la corbeille. Quand cela vous convient, touchez **Ajouter**. Touchez **Annuler** si vous vouliez seulement calculer.
+
+Cochez **Ajouter aux favoris** pour garder tout le repas avec ses ingrédients.
+
 ## Vidéo
 
 [▶ Regarder la vidéo](../../media/03-diary-add-manually/bg-demo.mp4)
