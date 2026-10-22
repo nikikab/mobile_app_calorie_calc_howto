@@ -1,6 +1,6 @@
 # KaloCalc: how-to
 
-[Българска версия](README.bg.md)
+[Български](README.bg.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md)
 
 Documentation for [KaloCalc](https://github.com/nikikab/mobile_app_calorie_calc), an Android calorie tracker (snap your food, calculate your day).
 

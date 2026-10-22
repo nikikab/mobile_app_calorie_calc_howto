@@ -1,6 +1,6 @@
 # KaloCalc: ръководство
 
-[English version](README.md)
+[English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md)
 
 Документация на [KaloCalc](https://github.com/nikikab/mobile_app_calorie_calc): Android приложение за следене на калориите (снимаш храната и калкулираш деня).
 
