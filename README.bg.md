@@ -23,7 +23,7 @@
 
 ```
 docs/bg/NN-сценарий.md   описание на български
-docs/_template.md        шаблон за нов сценарий
+docs/_template.bg.md     шаблон за нов сценарий
 media/NN-scenario/       снимки (bg-NN-*.png) и видеа (*.mp4, Git LFS)
 ```
 

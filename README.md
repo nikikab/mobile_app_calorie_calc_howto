@@ -23,7 +23,7 @@ Documentation for [KaloCalc](https://github.com/nikikab/mobile_app_calorie_calc)
 
 ```
 docs/en/NN-scenario.md   description in English
-docs/_template.md        template for a new scenario
+docs/_template.en.md     template for a new scenario
 media/NN-scenario/       screenshots (en-NN-*.png) and videos (*.mp4, Git LFS)
 ```
 
