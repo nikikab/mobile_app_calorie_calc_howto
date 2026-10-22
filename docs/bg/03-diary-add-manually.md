@@ -29,4 +29,4 @@
 
 ---
 
-[← Назад](02-calculator-daily-norm.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](04-search-and-barcode.md)
+[← Назад](02-calculator-daily-norm.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](04-search-and-barcode.md)

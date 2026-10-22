@@ -28,4 +28,4 @@
 
 ---
 
-[← Назад](03-diary-add-manually.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](05-photo-offline-labels.md)
+[← Назад](03-diary-add-manually.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](05-photo-offline-labels.md)

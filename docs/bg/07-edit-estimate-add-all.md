@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](06-photo-gemini-estimate.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](08-progress-charts.md)
+[← Назад](06-photo-gemini-estimate.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](08-progress-charts.md)

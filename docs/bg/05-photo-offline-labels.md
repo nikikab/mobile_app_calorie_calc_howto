@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](04-search-and-barcode.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](06-photo-gemini-estimate.md)
+[← Назад](04-search-and-barcode.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](06-photo-gemini-estimate.md)

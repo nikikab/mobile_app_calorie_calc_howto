@@ -59,4 +59,4 @@
 
 ---
 
-[← Назад](09-backup-export-import.md) · [Към съдържанието](../../README.md#съдържание)
+[← Назад](09-backup-export-import.md) · [Към съдържанието](../../README.bg.md#съдържание)

@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](08-progress-charts.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](10-language-and-settings.md)
+[← Назад](08-progress-charts.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](10-language-and-settings.md)

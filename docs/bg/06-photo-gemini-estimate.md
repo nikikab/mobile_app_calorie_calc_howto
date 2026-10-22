@@ -18,4 +18,4 @@ Gemini оценява ястието от снимката: име, грамаж
 
 ---
 
-[← Назад](05-photo-offline-labels.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](07-edit-estimate-add-all.md)
+[← Назад](05-photo-offline-labels.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](07-edit-estimate-add-all.md)

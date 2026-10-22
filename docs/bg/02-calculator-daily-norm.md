@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](01-first-start.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](03-diary-add-manually.md)
+[← Назад](01-first-start.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](03-diary-add-manually.md)

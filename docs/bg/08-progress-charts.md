@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](07-edit-estimate-add-all.md) · [Към съдържанието](../../README.md#съдържание) · [Напред →](09-backup-export-import.md)
+[← Назад](07-edit-estimate-add-all.md) · [Към съдържанието](../../README.bg.md#съдържание) · [Напред →](09-backup-export-import.md)
