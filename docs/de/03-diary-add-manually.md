@@ -33,7 +33,7 @@ Hake **Zu Favoriten hinzufügen** an, um die ganze Mahlzeit mit ihren Zutaten zu
 
 ## Video
 
-[▶ Video ansehen](../../media/03-diary-add-manually/bg-demo.mp4)
+[▶ Video ansehen](https://github.com/nikikab/mobile_app_calorie_calc_howto/raw/main/media/03-diary-add-manually/bg-demo.mp4)
 
 _Das Video wurde mit der bulgarischen Oberfläche aufgenommen._
 

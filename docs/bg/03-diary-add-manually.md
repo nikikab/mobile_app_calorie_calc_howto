@@ -33,7 +33,7 @@
 
 ## Видео
 
-[▶ Гледай видеото](../../media/03-diary-add-manually/bg-demo.mp4)
+[▶ Гледай видеото](https://github.com/nikikab/mobile_app_calorie_calc_howto/raw/main/media/03-diary-add-manually/bg-demo.mp4)
 
 ## Резултат
 

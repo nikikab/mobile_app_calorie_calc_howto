@@ -33,7 +33,7 @@ Marca **Añadir a favoritos** para guardar toda la comida con sus ingredientes.
 
 ## Vídeo
 
-[▶ Ver el vídeo](../../media/03-diary-add-manually/bg-demo.mp4)
+[▶ Ver el vídeo](https://github.com/nikikab/mobile_app_calorie_calc_howto/raw/main/media/03-diary-add-manually/bg-demo.mp4)
 
 _El vídeo está grabado con la interfaz en búlgaro._
 

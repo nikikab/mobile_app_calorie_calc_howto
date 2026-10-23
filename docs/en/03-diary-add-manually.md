@@ -33,7 +33,7 @@ Tick **Save to favorites** to keep the whole meal with its ingredients.
 
 ## Video
 
-[▶ Watch the video](../../media/03-diary-add-manually/bg-demo.mp4)
+[▶ Watch the video](https://github.com/nikikab/mobile_app_calorie_calc_howto/raw/main/media/03-diary-add-manually/bg-demo.mp4)
 
 _The video is recorded with the Bulgarian interface._
 

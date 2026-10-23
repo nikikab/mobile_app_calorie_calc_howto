@@ -33,7 +33,7 @@ Cochez **Ajouter aux favoris** pour garder tout le repas avec ses ingrédients.
 
 ## Vidéo
 
-[▶ Regarder la vidéo](../../media/03-diary-add-manually/bg-demo.mp4)
+[▶ Regarder la vidéo](https://github.com/nikikab/mobile_app_calorie_calc_howto/raw/main/media/03-diary-add-manually/bg-demo.mp4)
 
 _La vidéo a été enregistrée avec l'interface en bulgare._
 
